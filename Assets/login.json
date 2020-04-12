@@ -1,0 +1,22 @@
+[
+  {
+    "login": "User1",
+    "password": "489cd5dbc708c7e541de4d7cd91ce6d0f1613573b7fc5b40d3942ccb9555cf35"
+  },
+  {
+    "login": "User2",
+    "password": "f0b8fd442e97d1306a9639f6350a986b17afed2e2d71b94ea73540a81102fb72"
+  },
+  {
+    "login": "User3",
+    "password": "fbd77bc68717f45eedbf71d09826c4a64c0447da1f42c7a6dbf608fa7c97f710"
+  },
+  {
+    "login": "User4",
+    "password": "7020e57625b6a6695ffd51ed494fbfc56c699eaceca4e77bf7ea590c7ebf3879"
+  },
+  {
+    "login": "Artem Pachev",
+    "password": "5723360ef11043a879520412e9ad897e0ebcb99cc820ec363bfecc9d751a1a99"
+  }
+]
